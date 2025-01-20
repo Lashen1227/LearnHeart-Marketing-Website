@@ -8,4 +8,4 @@ LearnHeart is an innovative platform aimed at bridging the educational gap in ru
 - **Responsive Design**: Optimized for desktop and mobile devices to ensure accessibility.
 - **Sustainable Development Focus**: Contributes to the achievement of SDG 4 by helping rural students gain access to educational resources.
 
-![Home Page](src\assets\images\home-display.png)
+![Home Page](src/assets/images/home-display.png)
