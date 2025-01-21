@@ -6,7 +6,7 @@ const Marketing = () => {
           {/* Left Section: Title */}
           <div className="lg:w-1/2">
             <h1 className="mb-4 text-2xl font-medium text-gray-800 sm:text-4xl">
-              Demo Video
+              Discover LearnHeart
             </h1>
             <p className="text-lg leading-relaxed text-gray-600">
               Explore our platform through this demo video. It highlights key

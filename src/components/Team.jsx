@@ -66,7 +66,7 @@ const Team = () => {
               <img
                 src={member.image}
                 alt={member.name}
-                className="object-cover w-40 h-40 border-4 border-gray-300 rounded-full sm:w-40 sm:h-40 lg:w-48 lg:h-48"
+                className="w-40 h-40 border-4 border-gray-300 rounded-full sm:w-40 sm:h-40 lg:w-48 lg:h-48"
               />
               <h2 className="mt-4 text-lg font-semibold text-black">{member.name}</h2>
               <p className="text-sm text-gray-500">{member.desc}</p>
