@@ -19,8 +19,8 @@ const Marketing = () => {
           <div className="lg:w-1/2">
             <iframe
               className="w-full h-64 max-w-xl rounded-lg shadow-lg md:h-80"
-              src="https://www.youtube.com/embed/1agRuNIytSg"
-              title="Demo Video"
+              src="https://www.youtube.com/embed/ZPzg_8ERfw8"
+              title="LearnHeart Intro"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowFullScreen
