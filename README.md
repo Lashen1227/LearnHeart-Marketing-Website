@@ -1,8 +1,11 @@
-# React + Vite
+# LearnHeart Marketing Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+LearnHeart is an innovative platform aimed at bridging the educational gap in rural Sri Lankan schools. The project connects rural schools with volunteers and organizations, fostering collaboration for seminar requests. It aligns with the United Nations Sustainable Development Goal 4, promoting quality education for all.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **User-Friendly Interface**: A simple, intuitive website to help users navigate seminar requests and interactions.
+- **Responsive Design**: Optimized for desktop and mobile devices to ensure accessibility.
+- **Sustainable Development Focus**: Contributes to the achievement of SDG 4 by helping rural students gain access to educational resources.
+
+![Home Page](src/assets/images/home-display.png)
