@@ -5,6 +5,7 @@ import img1 from "../assets/images/image1.jpg";
 import img2 from "../assets/images/image2.png";
 import img3 from "../assets/images/image3.webp";
 import img4 from "../assets/images/image4.webp";
+import img5 from "../assets/images/image5.png";
 
 const Features = () => {
   const responsive = {
@@ -59,18 +60,20 @@ const Features = () => {
             <img src={img2} alt="Feature 2" className="w-full h-40" />
             <p className="mt-2 text-sm text-gray-600">
               The platform offers three separate dashboards: one for volunteers
-              to manage opportunities, one for organizations to schedule and manage
-               events, and one for schools to browse and book seminars. Each dashboard is tailored to its
-              users&#39; needs.
+              to manage opportunities, one for organizations to schedule and
+              manage events, and one for schools to browse and book seminars.
+              Each dashboard is tailored to its users&#39; needs.
             </p>
           </div>
           <div className="p-6 mx-2 transition-transform duration-300 bg-[#d9d9d9] rounded-lg shadow-lg hover:scale-105 h-96">
             <h2 className="text-lg font-medium text-gray-900">Resourse Bank</h2>
             <img src={img3} alt="Feature 3" className="w-full h-40" />
             <p className="mt-2 text-sm text-gray-600">
-            The platform includes a resource bank that offers a collection of study materials. It provides a wide range of educational content 
-            to support seminars and learning initiatives. Users can easily browse and utilize
-             resources to enhance their knowledge and event experiences.
+              The platform includes a resource bank that offers a collection of
+              study materials. It provides a wide range of educational content
+              to support seminars and learning initiatives. Users can easily
+              browse and utilize resources to enhance their knowledge and event
+              experiences.
             </p>
           </div>
           <div className="p-6 mx-2 transition-transform duration-300 bg-[#d9d9d9] rounded-lg shadow-lg hover:scale-105 h-96">
@@ -83,7 +86,19 @@ const Features = () => {
               validate the skills of volunteers.Schools and organizations can
               confidently rely on verified volunteers for their events and
               initiatives.
-              
+            </p>
+          </div>
+          <div className="p-6 mx-2 transition-transform duration-300 bg-[#d9d9d9] rounded-lg shadow-lg hover:scale-105 h-96">
+            <h2 className="text-lg font-medium text-gray-900">
+              Complience with SDG Goals
+            </h2>
+            <img src={img5} alt="Feature 5" className="w-full h-40" />
+            <p className="mt-2 text-sm text-gray-600">
+              The platform aligns with the SDG Goal 4 on Quality Education by
+              facilitating access to educational resources, promoting skill
+              development, and supporting meaningful learning opportunities
+              through seminars and workshops. It fosters inclusive and equitable
+              education for all participants.
             </p>
           </div>
         </Carousel>
