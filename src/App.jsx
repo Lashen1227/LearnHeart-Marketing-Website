@@ -8,6 +8,7 @@ import ScrollToTopButton from "./components/ScrollToTop";
 import Team from "./components/Team";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
+import { SpeedInsights } from '@vercel/speed-insights/react';
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
         <Footer />
         <ScrollToTopButton />
         <ToastContainer />
+        <SpeedInsights />
       </div>
     </>
     
