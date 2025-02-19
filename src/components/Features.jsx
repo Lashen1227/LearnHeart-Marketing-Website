@@ -36,8 +36,8 @@ const Features = () => {
           responsive={responsive}
           infinite
           autoPlay
-          autoPlaySpeed={3000}
-          transitionDuration={500}
+          autoPlaySpeed={8000}
+          transitionDuration={3000}
           className="mt-4"
         >
           {/* Carousel Items */}
