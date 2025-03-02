@@ -36,7 +36,7 @@ const Features = () => {
           responsive={responsive}
           infinite
           autoPlay
-          autoPlaySpeed={8000}
+          autoPlaySpeed={6000}
           transitionDuration={3000}
           className="mt-4"
         >

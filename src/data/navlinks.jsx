@@ -4,7 +4,7 @@ const Navlinks = [
     link: "home",
   },
   {
-    title: "About",
+    title: "About Us",
     link: "marketing",
   },
   {
@@ -12,7 +12,7 @@ const Navlinks = [
     link: "features",
   },
   {
-    title: "Team",
+    title: "Our Team",
     link: "team",
   },
 ];
