@@ -47,7 +47,7 @@ const Profile = () => {
               data-aos-once="false"
               className="mb-2 text-lg leading-relaxed text-white md:text-xl"
             >
-              Sri Lanka's first platform connecting  schools with <br/> volunteers and educational opportunities.
+              Sri Lanka&apos;s first platform connecting  schools with <br/> volunteers and educational opportunities.
             </p>
 
           <div
@@ -56,11 +56,11 @@ const Profile = () => {
             data-aos-once="false"
             className="flex justify-center mt-4 gap-x-4 md:gap-x-5 md:justify-between"
           >
-            {/* <button className="inline-flex p-2 py-3 text-sm text-white duration-300 bg-black border border-white rounded-full focus:outline-none md:text-base lg:text-lg xl:px-10 hover:scale-110">
+            <button className="inline-flex p-2 py-3 text-sm text-white duration-300 bg-black border border-white rounded-full focus:outline-none md:text-base lg:text-lg xl:px-10 hover:scale-110">
               <a href="https://siddhant-k-code.github.io/404-Error-Page---Astronaut/" target="_blank" rel="noopener noreferrer" className="cursor-pointer">
                 Join Us Now
               </a>
-            </button> */}
+            </button>
 
           </div>
         </div>
