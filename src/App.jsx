@@ -9,6 +9,7 @@ import Team from "./components/Team";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import { SpeedInsights } from '@vercel/speed-insights/react';
+import Works from "./components/Works";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <Profile />
         <Marketing />
         <Features />
+        <Works />
         <Team />
         <Footer />
         <ScrollToTopButton />
