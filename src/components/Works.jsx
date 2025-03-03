@@ -2,7 +2,7 @@ import { FaUserPlus, FaHandshake, FaLightbulb } from "react-icons/fa";
 
 const Works = () => {
   return (
-    <section id="works" className="py-16 bg-[#080831] text-white">
+    <section id="works" className="py-16 bg-[#080831] text-white border-t border-gray-700">
       <div className="container px-5 mx-auto text-center md:px-10 lg:px-16">
         <h1 className="mb-4 text-3xl font-bold sm:text-4xl text-[#B3C5EF]">
           How LearnHeart Works
@@ -13,7 +13,7 @@ const Works = () => {
 
         <div className="grid grid-cols-1 gap-10 md:grid-cols-3">
           {/* Step 1 */}
-          <div className="p-8 bg-[#161B22] rounded-lg shadow-lg text-center transition-transform transform hover:scale-105 hover:shadow-xl">
+          <div className="p-8 bg-[#161B22] rounded-lg shadow-lg text-center transition-transform transform hover:scale-105 hover:shadow-[0_4px_20px_rgba(96,165,250,0.3)]">
             <div className="flex justify-center mb-4">
               <FaUserPlus className="text-[#60A5FA] text-5xl" />
             </div>
@@ -24,7 +24,7 @@ const Works = () => {
           </div>
 
           {/* Step 2 */}
-          <div className="p-8 bg-[#161B22] rounded-lg shadow-lg text-center transition-transform transform hover:scale-105 hover:shadow-xl">
+          <div className="p-8 bg-[#161B22] rounded-lg shadow-lg text-center transition-transform transform hover:scale-105 hover:shadow-[0_4px_20px_rgba(96,165,250,0.3)]">
             <div className="flex justify-center mb-4">
               <FaHandshake className="text-[#60A5FA] text-5xl" />
             </div>
@@ -35,7 +35,7 @@ const Works = () => {
           </div>
 
           {/* Step 3 */}
-          <div className="p-8 bg-[#161B22] rounded-lg shadow-lg text-center transition-transform transform hover:scale-105 hover:shadow-xl">
+          <div className="p-8 bg-[#161B22] rounded-lg shadow-lg text-center transition-transform transform hover:scale-105 hover:shadow-[0_4px_20px_rgba(96,165,250,0.3)]">
             <div className="flex justify-center mb-4">
               <FaLightbulb className="text-[#60A5FA] text-5xl" />
             </div>
@@ -47,13 +47,13 @@ const Works = () => {
         </div>
 
         <div className="flex justify-center mt-12">
-            <button
-                className="px-6 py-3 text-lg font-semibold text-white bg-[#60A5FA] rounded-lg shadow-lg hover:bg-[#4A90E2] transition duration-300"
-                onClick={() => document.getElementById("home")?.scrollIntoView({ behavior: "smooth" })}
-            >
-                Start Your Journey →
-            </button>
-            </div>
+          <button
+            className="px-6 py-3 text-lg font-semibold text-white bg-[#60A5FA] rounded-lg shadow-lg hover:bg-[#4A90E2] transition duration-300"
+            onClick={() => document.getElementById("home")?.scrollIntoView({ behavior: "smooth" })}
+          >
+            Start Your Journey →
+          </button>
+        </div>
       </div>
     </section>
   );
