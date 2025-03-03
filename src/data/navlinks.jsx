@@ -4,12 +4,16 @@ const Navlinks = [
     link: "home",
   },
   {
-    title: "About Us",
+    title: "About LearnHeart",
     link: "marketing",
   },
   {
     title: "Features",
     link: "features",
+  },
+  {
+    title: "Path to Impact",
+    link: "works",
   },
   {
     title: "Our Team",

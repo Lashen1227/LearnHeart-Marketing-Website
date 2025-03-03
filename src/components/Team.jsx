@@ -37,7 +37,7 @@ const data = [
   },
   {
     name: "Rehan Godakumbura",
-    desc: "Rehan played a crucial role in the frontend development of LearnHeart, crafting a user-friendly and visually appealing design.",
+    desc: "Rehan is the Social Media & Marketing Lead and played a crucial role in the frontend development, crafting a user-friendly design.",
     image: Rehan,
     git: "https://github.com/rehangodakumbura",
     linkdn: "https://www.linkedin.com/in/rehan-dewkalana-1b9915292/",
@@ -56,7 +56,7 @@ const Team = () => {
   return (
     <section id="team" className="text-gray-600 body-font">
       <div className="max-w-screen-xl px-4 py-8 mx-auto text-center">
-        <h1 className="text-2xl font-medium text-black sm:text-4xl">Meet Our Team</h1>
+        <h1 className="text-2xl font-medium text-darkblue sm:text-4xl">Meet Our Team</h1>
         <div className="flex flex-wrap justify-center gap-8 mt-8">
           {data.map((member, index) => (
             <div

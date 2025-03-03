@@ -16,7 +16,7 @@ const Marketing = () => {
           </div>
           {/* Text Section */}
           <div className="lg:w-1/2 lg:pl-10">
-            <h1 className="mb-6 text-2xl font-medium text-gray-800 sm:text-4xl">
+            <h1 className="mb-6 text-2xl font-medium text-darkblue sm:text-4xl">
               Why LearnHeart?
             </h1>
             <p className="mb-6 text-lg leading-relaxed text-gray-600">
@@ -33,7 +33,7 @@ const Marketing = () => {
         <div className="flex flex-col items-center justify-between lg:flex-row">
           {/* Text Section */}
           <div className="mb-10 lg:w-1/2 lg:mb-0 lg:pr-10">
-            <h1 className="mb-6 text-2xl font-medium text-gray-800 sm:text-4xl">
+            <h1 className="mb-6 text-2xl font-medium text-darkblue sm:text-4xl">
               Discover LearnHeart
             </h1>
             <p className="mb-6 text-lg leading-relaxed text-gray-600">
