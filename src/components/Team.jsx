@@ -23,7 +23,7 @@ const data = [
   },
   {
     name: "Malasha Amadi",
-    desc: "Amadi played a crucial role in shaping LearnHeart's frontend, utilizing her expertise to breathe life into its user-friendly project interface.",
+    desc: "Amadi played a crucial role in shaping LearnHeart's UI/UX, utilizing her expertise to breathe life into its user-friendly project interface.",
     image: Amadi,
     git: "https://github.com/MalshaAmadi",
     linkdn: "https://www.linkedin.com/in/malsha-amadi-349449299",
