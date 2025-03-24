@@ -37,8 +37,8 @@ const Marketing = () => {
               Discover LearnHeart
             </h1>
             <p className="mb-6 text-lg leading-relaxed text-gray-600">
-              Explore our platform through this demo video. It highlights key
-              features, showcases how to get started, and provides a glimpse into
+              Explore our platform through this marketing video. It highlights key
+              features, showcases how to get connect, and provides a glimpse into
               what makes our platform stand out. Watch the video to learn more!
             </p>
           </div>
